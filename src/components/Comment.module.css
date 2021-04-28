@@ -1,0 +1,21 @@
+.comment {
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+  margin: 12px;
+}
+.comment_user {
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
+  margin-right: 12px;
+}
+.comment_text {
+  font-size: 15px;
+  color: whitesmoke;
+  margin-right: 10px;
+}
+.comment_headerTime {
+  font-size: 14px;
+  color: gray;
+}
